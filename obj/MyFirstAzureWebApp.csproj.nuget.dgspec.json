@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rboychev\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj": {}
+    "c:\\Users\\rboychev\\ajar\\MyFirstAzureWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rboychev\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj": {
+    "c:\\Users\\rboychev\\ajar\\MyFirstAzureWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rboychev\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+        "projectUniqueName": "c:\\Users\\rboychev\\ajar\\MyFirstAzureWebApp.csproj",
         "projectName": "MyFirstAzureWebApp",
-        "projectPath": "C:\\Users\\rboychev\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+        "projectPath": "c:\\Users\\rboychev\\ajar\\MyFirstAzureWebApp.csproj",
         "packagesPath": "C:\\Users\\rboychev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rboychev\\MyFirstAzureWebApp\\obj\\",
+        "outputPath": "c:\\Users\\rboychev\\ajar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rboychev\\AppData\\Roaming\\NuGet\\NuGet.Config"
